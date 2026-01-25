@@ -56,7 +56,7 @@ local v17 = vu1
 vu1.Popup(v17, {
     Title = v15('KaiHub', vu7.Red, vu7.Green),
     Icon = 'zap',
-    Content = v15('Best MM2 Script - Latest Version', vu7.Gold, vu7.Blue),
+    Content = v15('Top Murder Mystery Script - Latest Version', vu7.Gold, vu7.Blue),
     Buttons = {
         {
             Title = 'Continue',
