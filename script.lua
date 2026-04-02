@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/5nPo9EIc/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/jSwT33lS/raw"))()
